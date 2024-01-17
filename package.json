@@ -1,5 +1,5 @@
 {
-  "homepage":"https://royalehoneybadger.github.io/image-gallery",
+  "homepage": "https://royalehoneybadger.github.io/image-gallery",
   "name": "image-gallery",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.33",
     "tailwind": "^4.0.0"
   }
